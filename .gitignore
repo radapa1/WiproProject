@@ -1,0 +1,10 @@
+
+*.pdb
+*.dll
+*.pdb
+WiproCustomerModule/.vs/WiproCustomerModule/v16/.suo
+*.v2
+./[Bb]in/
+./[Oo]bj/
+WiproCustomerModule/obj/Debug/netcoreapp3.1/WiproCustomerModule.Views.pdb
+WiproCustomerModule/obj/Debug/netcoreapp3.1/WiproCustomerModule.Views.dll
